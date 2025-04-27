@@ -4,5 +4,6 @@
 # React Router
 .cursor/
 .cursorrules
+.env
 /.react-router/
 /build/
