@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules/
+
+# React Router
+.cursor/
+.cursorrules
+/.react-router/
+/build/
